@@ -1,66 +1,66 @@
 [
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/athletes.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/athletes.csv",
         "param_folder_name": "athletes",
         "param_file_name": "athletes.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/coaches.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/coaches.csv",
         "param_folder_name": "coaches",
         "param_file_name": "coaches.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/events.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/events.csv",
         "param_folder_name": "events",
         "param_file_name": "events.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/medallists.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/medallists.csv",
         "param_folder_name": "medallists",
         "param_file_name": "medallists.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/medals.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/medals.csv",
         "param_folder_name": "medals",
         "param_file_name": "medals.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/medals_total.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/medals_total.csv",
         "param_folder_name": "medals_total",
         "param_file_name": "medals_total.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/nocs.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/nocs.csv",
         "param_folder_name": "nocs",
         "param_file_name": "nocs.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/schedules.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/schedules.csv",
         "param_folder_name": "schedules",
         "param_file_name": "schedules.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/schedules_preliminary.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/schedules_preliminary.csv",
         "param_folder_name": "schedules_preliminary",
         "param_file_name": "schedules_preliminary.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/teams.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/teams.csv",
         "param_folder_name": "teams",
         "param_file_name": "teams.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/technical_officials.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/technical_officials.csv",
         "param_folder_name": "technical_officials",
         "param_file_name": "technical_officials.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/torch_route.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/torch_route.csv",
         "param_folder_name": "torch_route",
         "param_file_name": "torch_route.parquet"
     },
     {
-        "param_rel_URL": "Seiun22/azure-project-source/tree/main/archive/venues.csv",
+        "param_rel_URL": "Seiun22/azure-project-source/main/archive/venues.csv",
         "param_folder_name": "venues",
         "param_file_name": "venues.parquet"
     }
